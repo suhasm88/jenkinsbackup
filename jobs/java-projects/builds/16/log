@@ -1,0 +1,22 @@
+Started by user [8mha:////4GATu51oShnoXXl5CQj43GLSokYDIummucsqiFnmCyUkAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZu/dLi1CL94tKMxGIAPMCL2sAAAAA=[0mSUHAS M
+Running as SYSTEM
+Building remotely on [8mha:////4EqQCoCi0i5CgZTVibmKrPBaumxQQddQVf7Kunn+qAiRAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygO40AumLp3sQAAAA=[0mnode2 in workspace /opt/jenkins/workspace/java-projects
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /opt/jenkins/workspace/java-projects/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/suhasm88/java-projects.git # timeout=10
+Fetching upstream changes from https://github.com/suhasm88/java-projects.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/suhasm88/java-projects.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision ee3e32e6d54877bc6aa1e75bc7fa920b3cb0c4a1 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ee3e32e6d54877bc6aa1e75bc7fa920b3cb0c4a1 # timeout=10
+Commit message: "testingwebhooks2.09am"
+ > git rev-list --no-walk ee3e32e6d54877bc6aa1e75bc7fa920b3cb0c4a1 # timeout=10
+[java-projects] $ /bin/sh -xe /tmp/jenkins3060078594845770643.sh
++ cd /opt/jenkins
+Triggering a new build of [8mha:////4AWYX5kTPLXsEe+4NH0OY6NJNfi5IlYLhkNfCy47j6zqAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklxfoAAkOhl8gAAAA=[0mjava-projects
+Finished: SUCCESS

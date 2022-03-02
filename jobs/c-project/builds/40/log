@@ -1,0 +1,23 @@
+Started by GitHub push by suhasm88
+Running as SYSTEM
+Building remotely on [8mha:////4GYOafY0CoJ78kKIfrthxwN9C61jYJvBizHQI0YVp9IgAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygOw0BADPgR8QAAAA=[0mnode1 (c-projects) in workspace /opt/jenkins/workspace/c-project
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /opt/jenkins/workspace/c-project/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/suhasm88/c-project.git # timeout=10
+Fetching upstream changes from https://github.com/suhasm88/c-project.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/suhasm88/c-project.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 39e76e40e64f9be1502e9be0d50ba7c532511058 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 39e76e40e64f9be1502e9be0d50ba7c532511058 # timeout=10
+Commit message: "testing webhook"
+ > git rev-list --no-walk 3aff3e502a58465c20df271074b890794fba849b # timeout=10
+[c-project] $ /bin/sh -xe /tmp/jenkins11453228628751302.sh
++ cd /opt/jenkins/workspace/c-project
++ make
+make: 'ABC.exe' is up to date.
+Finished: SUCCESS

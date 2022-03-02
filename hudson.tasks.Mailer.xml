@@ -1,0 +1,6 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.tasks.Mailer_-DescriptorImpl plugin="mailer@408.vd726a_1130320">
+  <hudsonUrl>http://15.206.178.54:8080/</hudsonUrl>
+  <useSsl>false</useSsl>
+  <useTls>false</useTls>
+</hudson.tasks.Mailer_-DescriptorImpl>

@@ -1,0 +1,10 @@
+Started by user [8mha:////4GATu51oShnoXXl5CQj43GLSokYDIummucsqiFnmCyUkAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZu/dLi1CL94tKMxGIAPMCL2sAAAAA=[0mSUHAS M
+Running as SYSTEM
+Building remotely on [8mha:////4EqQCoCi0i5CgZTVibmKrPBaumxQQddQVf7Kunn+qAiRAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygO40AumLp3sQAAAA=[0mnode2 in workspace /opt/jenkins/workspace/java-project1
+[java-project1] $ /bin/sh -xe /tmp/jenkins17401795108268009128.sh
++ sudo cp -r /opt/jenkins/workspace/java-projects/target/hello-world-war-1.0.0.war /opt/apache-tomcat-9.0.58/webapps
++ cd /home/ubuntu
++ cd /opt/apache-tomcat-9.0.58/bin
+/tmp/jenkins17401795108268009128.sh: 4: cd: can't cd to /opt/apache-tomcat-9.0.58/bin
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

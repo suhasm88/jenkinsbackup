@@ -1,0 +1,26 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<slave>
+  <name>node1</name>
+  <description>for c-projects</description>
+  <remoteFS>/opt/jenkins</remoteFS>
+  <numExecutors>1</numExecutors>
+  <mode>NORMAL</mode>
+  <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>
+  <launcher class="hudson.plugins.sshslaves.SSHLauncher" plugin="ssh-slaves@1.33.0">
+    <host>3.110.195.88</host>
+    <port>22</port>
+    <credentialsId>485e23c4-76b0-42d8-8e3d-4e59a41dbc75</credentialsId>
+    <launchTimeoutSeconds>60</launchTimeoutSeconds>
+    <maxNumRetries>10</maxNumRetries>
+    <retryWaitTime>15</retryWaitTime>
+    <sshHostKeyVerificationStrategy class="hudson.plugins.sshslaves.verifiers.ManuallyProvidedKeyVerificationStrategy">
+      <key>
+        <algorithm>ssh-rsa</algorithm>
+        <key>AAAAB3NzaC1yc2EAAAADAQABAAABgQC06N06LJbuJiddASnN3Fz5MPx41K5sEvUHhdeIX0tt2pjloCIywJLwjSmGUKV/DRg4tTXDmCSVxGit0ZnFzToY+bripdI+mGQfUkStSP3ZgmGeg/oEUYB5NRotfi2xUBWaTnFUR8RKBQpe2RBGdHokRnxOykYoX1fNlXIHajYGgLGCxsN84nMItkZtxNG4Txi+cLBgI0EnV/gFDu2yr7UWFm9B7G9LUN3Ztr55RF0GBIuUSY0ghR/hV1yKX9jrr4Jm0xDT8Sy4LNtjYtUrAfTutaKjib4zCGERJyd8KahH6Dxp8k5rD/8O9TL5VoJZeJECnAVzXSwSI3s34Ra9go2t9QTJ1DqppShsOqkZl7uERQZEulSxZzh6IzS45rBCyP/2gd5jjcDoooA+lfIUAYNb5wBk63rCCAihQoF+snKzvUqEJ3P4r83Kr2eblZTP8GMLg7g+4cTyOznQRVHzzml47F0OWHLg3TicMmNsVfuoEWeOTXbyk9rCaqUm2YHaNWM=</key>
+      </key>
+    </sshHostKeyVerificationStrategy>
+    <tcpNoDelay>true</tcpNoDelay>
+  </launcher>
+  <label>c-projects</label>
+  <nodeProperties/>
+</slave>

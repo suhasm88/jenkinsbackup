@@ -1,0 +1,93 @@
+Started by upstream project "[8mha:////4OTg+eDhdhoM5iimPfDcHjb6QbCBfNamBhkDwMpsb30sAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2S1OISoHZ9AFumAcXCAAAA[0mtesting" build number [8mha:////4ALQA9dwOEBKXExqTvlZqu/biT/jppXytsnmWDrt7sMaAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBj79rPwk/ZLU4hKgdn1LAKM4em7DAAAA[0m9
+originally caused by:
+ Started by upstream project "[8mha:////4DZ5ho2B7k/5G471AtRtZP8JNj7eEgQ/USNK8HmRePB0AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklhvoAhW7uVcgAAAA=[0mjava-project1" build number [8mha:////4H/e/gTz9dq/R0YhxRWHlY8mmKmD+uCtUJWfwTK0a6A8AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklhvpG5gCho0BoygAAAA==[0m27
+ originally caused by:
+  Started by upstream project "[8mha:////4AWYX5kTPLXsEe+4NH0OY6NJNfi5IlYLhkNfCy47j6zqAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklxfoAAkOhl8gAAAA=[0mjava-projects" build number [8mha:////4OSqNJ0iC9jvl8AteCvOtd/3oNODxnehYUwVsccCAYesAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklxfrGhgBjpyWpygAAAA==[0m31
+  originally caused by:
+   Started by upstream project "[8mha:////4OTg+eDhdhoM5iimPfDcHjb6QbCBfNamBhkDwMpsb30sAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2S1OISoHZ9AFumAcXCAAAA[0mtesting" build number [8mha:////4C/6sagIdOiDWXA0Pn2ykTEnT7tkgZSl5lB1eqAWGhywAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBj79rPwk/ZLU4hKgdn0LADUIfRnDAAAA[0m8
+   originally caused by:
+    Started by upstream project "[8mha:////4DZ5ho2B7k/5G471AtRtZP8JNj7eEgQ/USNK8HmRePB0AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklhvoAhW7uVcgAAAA=[0mjava-project1" build number [8mha:////4KMwiMT633YLADpu1gRAUfSEWWD6X6OpWxgbSLwMyvhsAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklhvpGZgA3k0cfygAAAA==[0m26
+    originally caused by:
+     Started by upstream project "[8mha:////4AWYX5kTPLXsEe+4NH0OY6NJNfi5IlYLhkNfCy47j6zqAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklxfoAAkOhl8gAAAA=[0mjava-projects" build number [8mha:////4FkVo91jevZ9BM4ZwCsCok4P7wM1TOuDXG9kCxVhfsXDAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklxfrGBgD1lyLeygAAAA==[0m30
+     originally caused by:
+      Started by upstream project "[8mha:////4OTg+eDhdhoM5iimPfDcHjb6QbCBfNamBhkDwMpsb30sAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2S1OISoHZ9AFumAcXCAAAA[0mtesting" build number [8mha:////4GT1u9NwrJMDk3QwUgFTwGjM6xhPAD/djguaJEVmZI5SAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBj79rPwk/ZLU4hKgdn1zAKQVwonDAAAA[0m7
+      originally caused by:
+       Started by upstream project "[8mha:////4DZ5ho2B7k/5G471AtRtZP8JNj7eEgQ/USNK8HmRePB0AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklhvoAhW7uVcgAAAA=[0mjava-project1" build number [8mha:////4D0C4XFJEwzghUMlr2AlXC3D2timBJ2aXbXGfu759IEgAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklhvpGpgCNwk6GygAAAA==[0m25
+       originally caused by:
+        Started by upstream project "[8mha:////4AWYX5kTPLXsEe+4NH0OY6NJNfi5IlYLhkNfCy47j6zqAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklxfoAAkOhl8gAAAA=[0mjava-projects" build number [8mha:////4IcqTDenCVM0zCgCXJkGhiVG2VwO0/NAsd8TX5MNQjK2AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklxfpGlgAQHuW+ygAAAA==[0m29
+        originally caused by:
+         Started by upstream project "[8mha:////4OTg+eDhdhoM5iimPfDcHjb6QbCBfNamBhkDwMpsb30sAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2S1OISoHZ9AFumAcXCAAAA[0mtesting" build number [8mha:////4FzgIgVBwHByjOamtM6+pS/e5mOwgehHsVOKoOZ2/hCxAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBj79rPwk/ZLU4hKgdn0zADIlxf7DAAAA[0m6
+         originally caused by:
+          Started by upstream project "[8mha:////4DZ5ho2B7k/5G471AtRtZP8JNj7eEgQ/USNK8HmRePB0AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklhvoAhW7uVcgAAAA=[0mjava-project1" build number [8mha:////4PMdsRVrwqUY48YTNB0tsFlKy2rJKHscHKc1tcLKi3InAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklhvpGJgAb8knxygAAAA==[0m24
+          originally caused by:
+           Started by upstream project "[8mha:////4AWYX5kTPLXsEe+4NH0OY6NJNfi5IlYLhkNfCy47j6zqAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklxfoAAkOhl8gAAAA=[0mjava-projects" build number [8mha:////4ExCDfRHcIgIpYmlSMeThTTCjDOUTfF32nvT23mFfdkTAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklxfpGFgCGLuLJygAAAA==[0m28
+           originally caused by:
+            (deeply nested causes)
+Running as SYSTEM
+Building remotely on [8mha:////4EqQCoCi0i5CgZTVibmKrPBaumxQQddQVf7Kunn+qAiRAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygO40AumLp3sQAAAA=[0mnode2 in workspace /opt/jenkins/workspace/java-projects
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /opt/jenkins/workspace/java-projects/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/suhasm88/java-projects.git # timeout=10
+Fetching upstream changes from https://github.com/suhasm88/java-projects.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/suhasm88/java-projects.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision ee3e32e6d54877bc6aa1e75bc7fa920b3cb0c4a1 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ee3e32e6d54877bc6aa1e75bc7fa920b3cb0c4a1 # timeout=10
+Commit message: "testingwebhooks2.09am"
+ > git rev-list --no-walk ee3e32e6d54877bc6aa1e75bc7fa920b3cb0c4a1 # timeout=10
+[java-projects] $ /bin/sh -xe /tmp/jenkins6561370981416675513.sh
++ cd /opt/jenkins/workspace/java-projects
++ mvn install
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/usr/share/maven/lib/guice.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------< [0;36mcom.efsavage:hello-world-war[0;1m >--------------------[m
+[[1;34mINFO[m] [1mBuilding Hello World Web Application Repository 1.0.0[m
+[[1;34mINFO[m] [1m--------------------------------[ war ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mhello-world-war[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /opt/jenkins/workspace/java-projects/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mhello-world-war[0;1m ---[m
+[[1;33mWARNING[m] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[[1;34mINFO[m] skip non existing resourceDirectory /opt/jenkins/workspace/java-projects/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No sources to compile
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.12.4:test[m [1m(default-test)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] No tests to run.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-war-plugin:2.1.1:war[m [1m(default-war)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] Packaging webapp
+[[1;34mINFO[m] Assembling webapp [hello-world-war] in [/opt/jenkins/workspace/java-projects/target/hello-world-war-1.0.0]
+[[1;34mINFO[m] Processing war project
+[[1;34mINFO[m] Copying webapp resources [/opt/jenkins/workspace/java-projects/src/main/webapp]
+[[1;34mINFO[m] Webapp assembled in [70 msecs]
+[[1;34mINFO[m] Building war: /opt/jenkins/workspace/java-projects/target/hello-world-war-1.0.0.war
+[[1;34mINFO[m] WEB-INF/web.xml already added, skipping
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-install-plugin:2.4:install[m [1m(default-install)[m @ [36mhello-world-war[0;1m ---[m
+[[1;34mINFO[m] Installing /opt/jenkins/workspace/java-projects/target/hello-world-war-1.0.0.war to /home/ubuntu/.m2/repository/com/efsavage/hello-world-war/1.0.0/hello-world-war-1.0.0.war
+[[1;34mINFO[m] Installing /opt/jenkins/workspace/java-projects/pom.xml to /home/ubuntu/.m2/repository/com/efsavage/hello-world-war/1.0.0/hello-world-war-1.0.0.pom
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  2.956 s
+[[1;34mINFO[m] Finished at: 2022-02-27T17:20:19Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+Triggering a new build of [8mha:////4DZ5ho2B7k/5G471AtRtZP8JNj7eEgQ/USNK8HmRePB0AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklhvoAhW7uVcgAAAA=[0mjava-project1
+Finished: SUCCESS

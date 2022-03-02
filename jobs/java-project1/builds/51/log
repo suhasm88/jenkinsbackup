@@ -1,0 +1,15 @@
+Started by upstream project "[8mha:////4AWYX5kTPLXsEe+4NH0OY6NJNfi5IlYLhkNfCy47j6zqAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2QOboFRflZqcklxfoAAkOhl8gAAAA=[0mjava-projects" build number [8mha:////4HTwvSSQDJGScFNzeUBuJLw6ifMZuuHGrH80ZfP9PwynAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH2QOboFRflZqcklxfqm5gDQpRwWygAAAA==[0m57
+originally caused by:
+ Started by user [8mha:////4GATu51oShnoXXl5CQj43GLSokYDIummucsqiFnmCyUkAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZu/dLi1CL94tKMxGIAPMCL2sAAAAA=[0mSUHAS M
+Running as SYSTEM
+Building remotely on [8mha:////4EqQCoCi0i5CgZTVibmKrPBaumxQQddQVf7Kunn+qAiRAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygO40AumLp3sQAAAA=[0mnode2 in workspace /opt/jenkins/workspace/java-project1
+[java-project1] $ /bin/sh -xe /tmp/jenkins5102378680005523776.sh
++ cd /opt/apache-tomcat-9.0.58/bin/
++ sudo ./shutdown.sh
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
++ sudo cp -r /opt/jenkins/workspace/java-projects/target/hello-world-war-1.0.0.war /opt/apache-tomcat-9.0.58/webapps
++ cd /opt/apache-tomcat-9.0.58/bin/
++ sudo ./startup.sh
+Tomcat started.
+Triggering a new build of [8mha:////4OTg+eDhdhoM5iimPfDcHjb6QbCBfNamBhkDwMpsb30sAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP2S1OISoHZ9AFumAcXCAAAA[0mtesting
+Finished: SUCCESS
